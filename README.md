@@ -1,5 +1,3 @@
-# recipe-app-1
-# recipe-app-1
 # 🍽️ Recipe App
 
 A modern and responsive Recipe App built using React that allows users to search for delicious recipes, view detailed cooking instructions, and explore different cuisines using a public Recipe API.
